@@ -16,7 +16,7 @@ This project analyses a rooftop surface to determine its suitability for a solar
 |---|---|
 | Mean slope | 29.23° |
 | Aspect (azimuth) | 183.03° (South) |
-| Roof area | 117,543 m² |
+| Roof area | 117.543 m² |
 | GSD (resolution) | 1.61 cm/px |
 
 A southern aspect combined with a ~29° slope places this surface close to the optimal tilt angle for PV panels in Poland (typically 30–35°), making it well-suited for photovoltaic installation.
