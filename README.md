@@ -90,5 +90,5 @@ drone-solar-analytics/
 ## Author
 
 **Igor Hajducki**  
-GIS Analyst | UAV Operator  
+GIS Analyst  
 [GitHub: IgorH-GIS](https://github.com/IgorH-GIS)
